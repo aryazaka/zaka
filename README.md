@@ -1,0 +1,2 @@
+# zaka
+data pribadi
